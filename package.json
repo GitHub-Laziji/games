@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "mv docs public && hexo clean && hexo generate && mv public docs",
-    "dev": "hexo server"
+    "build": "hexo clean && hexo generate",
+    "dev": "hexo server",
+    "dep": "git add . && git commit -m 'up' && git push -u origin main"
   },
   "hexo": {
     "version": "7.1.1"

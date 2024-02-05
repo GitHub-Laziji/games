@@ -5,14 +5,14 @@ keywords: null
 author: Laziji
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: https://github.com/GitHub-Laziji/games
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
   trailing_html: true
 source_dir: source
-public_dir: public
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
