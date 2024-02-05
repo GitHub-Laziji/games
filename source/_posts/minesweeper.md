@@ -1,6 +1,7 @@
 ---
 title: 扫雷
 date: 2024-02-05 22:11:06
+categories: 智益
 tags: 
 cover: /static/minesweeper/4.png
 thumbnail: /static/minesweeper/2.png
