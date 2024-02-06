@@ -116,12 +116,12 @@ footer:
     # copyright: © 2019
     # Links to be shown on the right of the footer section
     links:
-    #     Creative Commons:
-    #         icon: fab fa-creative-commons
-    #         url: https://creativecommons.org/
-    #     Attribution 4.0 International:
-    #         icon: fab fa-creative-commons-by
-    #         url: https://creativecommons.org/licenses/by/4.0/
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        Attribution 4.0 International:
+            icon: fab fa-creative-commons-by
+            url: https://creativecommons.org/licenses/by/4.0/
         GitHub:
             icon: fab fa-github
             url: https://github.com/GitHub-Laziji
@@ -137,7 +137,7 @@ article:
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show estimated article reading time
-    readtime: true
+    readtime: false
     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
     update_time: true
     # Article licensing block
