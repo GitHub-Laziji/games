@@ -3,7 +3,7 @@ title: 汉诺塔
 thumbnail: /static/tower-of-hanoi/1.png
 cover: /static/tower-of-hanoi/2.png
 date: 2024-02-07 20:04:45
-categories:
+categories: 智益
 tags:
 ---
 [**🎉 开始游戏 🎉**](https://github-laziji.github.io/tower-of-hanoi/)
