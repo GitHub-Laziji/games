@@ -3,13 +3,12 @@ title: {{ title }}
 date: {{ date }}
 categories: 
 tags: 
-thumbnail: 
-cover: 
+thumbnail: /static/{{ title }}/1.png
+cover: /static/{{ title }}/2.png
 ---
-[**🎉 开始游戏 🎉**](https://github-laziji.github.io/)
+[**🎉 开始游戏 🎉**](https://github-laziji.github.io/xxx/)
 
 摘要摘要摘要摘要摘要
 <!-- more -->
 详细详细详细详细详细
-> ☕ 源码 [https://github.com/GitHub-Laziji](https://github.com/GitHub-Laziji)
----
+> ☕ 源码 [https://github.com/GitHub-Laziji/xxx](https://github.com/GitHub-Laziji/xxx)
